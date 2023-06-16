@@ -1,0 +1,71 @@
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\bin\Debug\Alantric Books.exe
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\bin\Debug\Alantric Books.pdb
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\bin\Debug\Alantric Books.xml
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmAddBooks.resources
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmDeleteBooks.resources
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmMainMenu.resources
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmUpdateBooks.resources
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.Resources.resources
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.GenerateResource.Cache
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+C:\Users\PATAKZEVEN\Documents\Visual Studio 2010\Projects\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\bin\Debug\Alantric Books.exe
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\bin\Debug\Alantric Books.pdb
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\bin\Debug\Alantric Books.xml
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbprojResolveAssemblyReference.cache
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmAddBooks.resources
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmDeleteBooks.resources
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmMainMenu.resources
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmUpdateBooks.resources
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.Resources.resources
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 2 CODING OBJECTS 1\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.GenerateResource.Cache
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 4 CODE MSG\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 4 CODE MSG\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 4 CODE MSG\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+G:\2022-2023 LESSONS\ICT 10\ICT10 Q4LP10\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\bin\Debug\Alantric Books.exe
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\bin\Debug\Alantric Books.pdb
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\bin\Debug\Alantric Books.xml
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbprojResolveAssemblyReference.cache
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmAddBooks.resources
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmDeleteBooks.resources
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmMainMenu.resources
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmUpdateBooks.resources
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.Resources.resources
+G:\2022-2023 ICT DEPT\DEMO FEST\ICT 10 VS PROJECTS\SESSION 4 CODE MSG NO ALERT\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.GenerateResource.Cache
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\bin\Debug\Alantric Books.exe
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\bin\Debug\Alantric Books.pdb
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\bin\Debug\Alantric Books.xml
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmAddBooks.resources
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmDeleteBooks.resources
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmMainMenu.resources
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmUpdateBooks.resources
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.Resources.resources
+C:\Users\admin\Downloads\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.GenerateResource.Cache
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\bin\Debug\Alantric Books.exe
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\bin\Debug\Alantric Books.pdb
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\bin\Debug\Alantric Books.xml
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.AssemblyReference.cache
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmAddBooks.resources
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmDeleteBooks.resources
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmMainMenu.resources
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.frmUpdateBooks.resources
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric_Books.Resources.resources
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.GenerateResource.cache
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.vbproj.CoreCompileInputs.cache
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.exe
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.xml
+C:\Users\DON\Desktop\ICT10_ABS4\Alantric Books\Alantric Books\obj\x86\Debug\Alantric Books.pdb
